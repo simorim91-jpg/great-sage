@@ -1,0 +1,11 @@
+{
+  "model": "qwen2.5:1.5b",
+  "browser": "auto",
+  "tts_on_start": true,
+  "tts_voice_rate": 170,
+  "proactive_seconds": 45,
+  "watch_context": true,
+  "typo_watch": true,
+  "debate_on_start": false,
+  "greeting": "【System】 Great Sage online. Tap me to speak, or double-click to type."
+}
